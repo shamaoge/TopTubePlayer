@@ -51,6 +51,18 @@
   
   <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/20180626221835.jpg" height="540" width="300">
   
+### 代码
+
+    * YouTube爬虫（离线、在线）
+    
+    * 存储系统（千万级别的YouTube视频数据，几十万的频道数据）
+    
+    * 热门视频算法：热度计算模型，榜单排序
+    
+    * API
+    
+    * Android客户端
+  
 
 ### 下载
 
