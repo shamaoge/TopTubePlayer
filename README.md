@@ -35,7 +35,15 @@
  <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/20180626224916.jpg" height="540" width="300">
  
  <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/9.jpg" height="300" width="540">
- 
+
+  
+### 频道流行趋势
+
+  * 整理了几万到几十万频道（channels）数据，区分不同国家，根据订阅数排行，频道流行度一幕了然。点击频道进入youtube频道页面，可自行登录youtube进行订阅，方便至极。
+  
+  <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/20180626221850.jpg" height="540" width="300">
+  
+   
   
 ### 视频排行榜
 
@@ -43,12 +51,6 @@
   
   <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/20180626221835.jpg" height="540" width="300">
   
-  
-### 频道流行趋势
-
-  * 整理了几万到几十万频道（channels）数据，区分不同国家，根据订阅数排行，频道流行度一幕了然。点击频道进入youtube频道页面，可自行登录youtube进行订阅，方便至极。
-  
-  <img src="https://github.com/shamaoge/TopTubePlayer/raw/master/20180626221850.jpg" height="540" width="300">
 
 ### 下载
 
